@@ -38,7 +38,7 @@ You can load the framework with (change master to some released version if you w
 ```Smalltalk
 Metacello new
 	baseline: 'HighchartsSt';
-	repository: 'github://ba-st/HighchartsSt:master/repository';
+	repository: 'github://ba-st/HighchartsSt:master/source';
 	load.
 ```
 
