@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"use:startingAt:" : "",
+		"toBottom" : "",
+		"toTheRight" : "",
+		"stops" : ""
+	},
+	"class" : {
+		"colorOrGradienFrom:" : ""
+	}
+}

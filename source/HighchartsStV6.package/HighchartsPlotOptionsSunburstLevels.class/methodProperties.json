@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"borderDashStyle:" : "",
+		"colorVariation" : "",
+		"rotation:" : "",
+		"color:" : "",
+		"borderWidth:" : "",
+		"dataLabels:" : "",
+		"rotationMode:" : "",
+		"borderColor:" : ""
+	},
+	"class" : { }
+}

@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"render:" : "",
+		"addSeries:" : "",
+		"drillupall:" : "",
+		"selection:" : "",
+		"load:" : "",
+		"drilldown:" : "",
+		"afterPrint:" : "",
+		"drillup:" : "",
+		"beforePrint:" : "",
+		"redraw:" : "",
+		"click:" : ""
+	},
+	"class" : { }
+}

@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"y:" : "",
+		"high:" : "",
+		"low:" : "",
+		"dataLabels" : "",
+		"x:" : "",
+		"name:" : "",
+		"id:" : "",
+		"dataLabels:" : "",
+		"legendIndex:" : "",
+		"color:" : "",
+		"sliced:" : ""
+	},
+	"class" : { }
+}

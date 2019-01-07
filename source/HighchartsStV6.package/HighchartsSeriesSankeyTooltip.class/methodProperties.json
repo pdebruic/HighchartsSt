@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"valueDecimals:" : "",
+		"hideDelay:" : "",
+		"nodeFormatter:" : "",
+		"nodeFormat:" : "",
+		"padding:" : "",
+		"headerFormat:" : "",
+		"pointFormatter:" : "",
+		"valuePrefix:" : "",
+		"valueSuffix:" : "",
+		"xDateFormat:" : "",
+		"distance:" : "",
+		"footerFormat:" : "",
+		"changeDecimals:" : "",
+		"followPointer:" : "",
+		"dateTimeLabelFormats" : "",
+		"followTouchMove:" : "",
+		"split:" : "",
+		"pointFormat:" : ""
+	},
+	"class" : { }
+}

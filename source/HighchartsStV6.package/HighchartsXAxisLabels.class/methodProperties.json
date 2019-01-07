@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"formatter:" : "",
+		"skew3d:" : "",
+		"format:" : "",
+		"distance:" : "",
+		"padding:" : "",
+		"overflow:" : "",
+		"step:" : "",
+		"reserveSpace:" : "",
+		"y:" : "",
+		"autoRotationLimit:" : "",
+		"x:" : "",
+		"position3d:" : "",
+		"useHTML:" : "",
+		"autoRotation:" : "",
+		"enabled:" : "",
+		"style:" : "",
+		"staggerLines:" : "",
+		"style" : "",
+		"zIndex:" : "",
+		"rotation:" : "",
+		"align:" : ""
+	},
+	"class" : { }
+}

@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"low:" : "",
+		"median:" : "",
+		"dataLabels:" : "",
+		"description:" : "",
+		"drilldown:" : "",
+		"y:" : "",
+		"color:" : "",
+		"colorIndex:" : "",
+		"className:" : "",
+		"name:" : "",
+		"high:" : "",
+		"events:" : "",
+		"x:" : "",
+		"selected:" : "",
+		"q1:" : "",
+		"id:" : "",
+		"labelrank:" : "",
+		"events" : "",
+		"q3:" : ""
+	},
+	"class" : { }
+}

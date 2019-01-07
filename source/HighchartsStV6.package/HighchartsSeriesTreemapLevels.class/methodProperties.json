@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"borderDashStyle:" : "",
+		"colorVariation" : "",
+		"layoutAlgorithm:" : "",
+		"color:" : "",
+		"layoutStartingDirection:" : "",
+		"borderWidth:" : "",
+		"dataLabels:" : "",
+		"level:" : "",
+		"borderColor:" : ""
+	},
+	"class" : { }
+}

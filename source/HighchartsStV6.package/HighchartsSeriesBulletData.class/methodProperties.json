@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"labelrank:" : "",
+		"selected:" : "",
+		"target:" : "",
+		"targetOptions" : "",
+		"y:" : "",
+		"className:" : "",
+		"events" : "",
+		"name:" : "",
+		"x:" : "",
+		"colorIndex:" : "",
+		"id:" : "",
+		"dataLabels:" : "",
+		"drilldown:" : "",
+		"events:" : "",
+		"color:" : "",
+		"description:" : ""
+	},
+	"class" : { }
+}

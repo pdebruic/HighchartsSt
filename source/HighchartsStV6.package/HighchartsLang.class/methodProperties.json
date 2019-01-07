@@ -1,0 +1,28 @@
+{
+	"instance" : {
+		"decimalPoint:" : "",
+		"downloadXLS:" : "",
+		"drillUpText:" : "",
+		"numericSymbolMagnitude:" : "",
+		"numericSymbols:" : "",
+		"invalidDate:" : "",
+		"shortMonths:" : "",
+		"months:" : "",
+		"downloadSVG:" : "",
+		"weekdays:" : "",
+		"downloadCSV:" : "",
+		"downloadPNG:" : "",
+		"downloadPDF:" : "",
+		"printChart:" : "",
+		"resetZoom:" : "",
+		"contextButtonTitle:" : "",
+		"shortWeekdays:" : "",
+		"viewData:" : "",
+		"thousandsSep:" : "",
+		"loading:" : "",
+		"downloadJPEG:" : "",
+		"noData:" : "",
+		"resetZoomTitle:" : ""
+	},
+	"class" : { }
+}

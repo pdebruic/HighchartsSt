@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"animation" : "",
+		"activeAxisLabelStyle" : "",
+		"drillUpButton" : "",
+		"activeDataLabelStyle" : "",
+		"series:" : "",
+		"allowPointDrilldown:" : ""
+	},
+	"class" : { }
+}

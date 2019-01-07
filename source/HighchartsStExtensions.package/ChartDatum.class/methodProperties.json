@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"value" : "",
+		"yValue" : "",
+		"printOn:" : "",
+		"category" : "",
+		"withColorDo:" : "",
+		"initializeNamed:locatedAt:and:colorOptional:" : "",
+		"xValue" : "",
+		"name" : ""
+	},
+	"class" : {
+		"belongingTo:withValue:" : "",
+		"named:locatedAt:and:colorOptional:" : "",
+		"named:locatedAt:and:toBeColoredUsing:" : "",
+		"named:locatedAt:and:" : "",
+		"belongingTo:withValue:toBeColoredUsing:" : ""
+	}
+}

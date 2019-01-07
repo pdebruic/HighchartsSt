@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"goldHighestPriceSeries" : "",
+		"renderBarGovermentComputersChartOn:" : "",
+		"goldLowestPriceSeries" : "",
+		"goldOpeningPriceSeries" : "",
+		"goldPricesSeries" : "",
+		"govermentComputersSeries" : "",
+		"renderContentOn:" : "",
+		"goldClosingPriceSeries" : "",
+		"renderPricePerTroyOunce:" : ""
+	},
+	"class" : {
+		"initialize" : "",
+		"register" : ""
+	}
+}

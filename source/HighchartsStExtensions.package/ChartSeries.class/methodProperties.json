@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"dataCategories" : "",
+		"minimumValueOrIfEmpty:" : "",
+		"name" : "",
+		"configureYAxisOf:accordingTo:" : "",
+		"pointFor:on:" : "",
+		"configureRangeOf:accordingTo:" : "",
+		"dataAsPointsOn:" : "",
+		"printOn:" : "",
+		"initializeNamed:composedOf:creatingChartSeriesWith:configuredUsing:" : "",
+		"configureChartSeriesOf:applying:" : "",
+		"maximumValueOrIfEmpty:" : "",
+		"configureXAxisOf:accordingTo:" : ""
+	},
+	"class" : {
+		"named:composedOf:creatingChartSeriesWith:configuredUsing:" : ""
+	}
+}

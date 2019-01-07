@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"className:" : "",
+		"shape:" : "",
+		"borderWidth:" : "",
+		"innerRadius:" : "",
+		"backgroundColor" : "",
+		"outerRadius:" : "",
+		"borderColor:" : ""
+	},
+	"class" : { }
+}

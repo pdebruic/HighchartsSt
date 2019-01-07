@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"legendItemClick:" : "",
+		"mouseOver:" : "",
+		"click:" : "",
+		"remove:" : "",
+		"select:" : "",
+		"update:" : "",
+		"unselect:" : "",
+		"mouseOut:" : ""
+	},
+	"class" : { }
+}

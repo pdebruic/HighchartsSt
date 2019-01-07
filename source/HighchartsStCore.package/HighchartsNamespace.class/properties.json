@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "JSObject",
+	"category" : "HighchartsStCore",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HighchartsNamespace",
+	"type" : "normal"
+}

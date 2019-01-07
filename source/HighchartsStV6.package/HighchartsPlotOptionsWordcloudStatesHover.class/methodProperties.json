@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"brightness:" : "",
+		"animation" : "",
+		"color:" : "",
+		"borderWidth:" : "",
+		"enabled:" : "",
+		"borderColor:" : ""
+	},
+	"class" : { }
+}

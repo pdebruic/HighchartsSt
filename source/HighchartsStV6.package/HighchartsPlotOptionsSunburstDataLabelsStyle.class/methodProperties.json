@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"fontSize:" : "",
+		"fontWeight:" : "",
+		"color:" : "",
+		"textOutline:" : "",
+		"textOverflow:" : ""
+	},
+	"class" : { }
+}

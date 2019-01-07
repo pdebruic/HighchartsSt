@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"lineWidthPlus:" : "",
+		"shadow:" : "",
+		"brightness:" : "",
+		"marker" : "",
+		"borderWidth:" : "",
+		"animation" : "",
+		"borderColor:" : "",
+		"opacity:" : "",
+		"color:" : "",
+		"lineWidth:" : "",
+		"enabled:" : ""
+	},
+	"class" : { }
+}

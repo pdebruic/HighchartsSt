@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"baseWidth:" : "",
+		"radius:" : "",
+		"rearLength:" : "",
+		"baseLength:" : "",
+		"borderWidth:" : "",
+		"topWidth:" : "",
+		"backgroundColor:" : "",
+		"borderColor:" : ""
+	},
+	"class" : { }
+}

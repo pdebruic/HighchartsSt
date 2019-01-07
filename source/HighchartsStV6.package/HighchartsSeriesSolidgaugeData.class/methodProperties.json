@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"labelrank:" : "",
+		"innerRadius:" : "",
+		"selected:" : "",
+		"y:" : "",
+		"className:" : "",
+		"radius:" : "",
+		"events" : "",
+		"name:" : "",
+		"colorIndex:" : "",
+		"id:" : "",
+		"dataLabels:" : "",
+		"events:" : "",
+		"color:" : "",
+		"description:" : ""
+	},
+	"class" : { }
+}
